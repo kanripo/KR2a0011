@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 兩漢刊誤補遺
-#+DATE: 2015-09-23 09:41:38
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:19:55.425429
+#+PROPERTY: ID KR2a0011
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR2a0011_WYG_007-1a>¶
 欽定四庫全書¶
 　兩漢刋誤補遺卷七¶
@@ -308,4 +310,3 @@
 　¶
 　¶
 　兩漢刊誤補遺卷七¶
-
